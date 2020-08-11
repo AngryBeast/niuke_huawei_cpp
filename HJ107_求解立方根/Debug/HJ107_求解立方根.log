@@ -1,0 +1,6 @@
+﻿  HJ107_求解立方根.cpp
+D:\1学习资料\niuke_cpp\提取不重复的整数\HJ107_求解立方根\HJ107_求解立方根.cpp(31,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\1学习资料\niuke_cpp\提取不重复的整数\HJ107_求解立方根\HJ107_求解立方根.cpp(55,21): warning C4305: “+=”: 从“double”到“float”截断
+D:\1学习资料\niuke_cpp\提取不重复的整数\HJ107_求解立方根\HJ107_求解立方根.cpp(58,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\1学习资料\niuke_cpp\提取不重复的整数\HJ107_求解立方根\HJ107_求解立方根.cpp(60,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  HJ107_求解立方根.vcxproj -> D:\1学习资料\niuke_cpp\提取不重复的整数\Debug\HJ107_求解立方根.exe
